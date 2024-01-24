@@ -21,3 +21,8 @@ You can watch more photos and full video of the app in my GitHub link. This 100%
 
 
 My Linkedin profile Link - https://www.linkedin.com/in/harsh-darji-6a3741147 
+
+![Screenshot 2024-01-03 at 12 10 50 PM](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/57a80020-e181-4f20-8c52-c9013df6294d)
+
+![Screenshot 2024-01-03 at 12 10 36 PM](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/06a83e2d-6635-4669-8dc0-bf3614b9bb21)
+

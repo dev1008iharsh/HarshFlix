@@ -6,12 +6,8 @@
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="screenshot.png" width="700" alt="HarshFlix Screenshot"/>
-</p>
+<img width="591" height="311" alt="HarshFlix" src="https://github.com/user-attachments/assets/4319ae15-50c6-4398-b34b-b9e411d232b8" />
 
-📸 **More Screenshots**  
-👉 https://drive.google.com/drive/folders/1oG2YYCpHXNe728v28-TIugJI99qxyipD?usp=sharing  
 
 🎥 **App Video — iPhone SE (3rd Gen)**  
 👉 https://youtu.be/bgcLirWhmwI?si=RpydzUlDXJSHX9w9  

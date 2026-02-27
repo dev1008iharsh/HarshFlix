@@ -1,25 +1,96 @@
-# HarshFlix
-For more Screenshot of the app - https://drive.google.com/drive/folders/1oG2YYCpHXNe728v28-TIugJI99qxyipD?usp=sharing
+# 🎬 HarshFlix — Movie Trailer App (UIKit + Core Data)
 
+> A fully programmatic iOS movie trailer application built using Swift and UIKit.
 
-video of the app iPhone se 3rd gen - https://youtu.be/bgcLirWhmwI?si=RpydzUlDXJSHX9w9
+---
 
+## 📱 Preview
 
-video of the app iPhone 15 pro max - https://youtu.be/qSq8UvMMRq4?si=AjPhfSZ4WNeHNelN
- 
+<p align="center">
+  <img src="screenshot.png" width="700" alt="HarshFlix Screenshot"/>
+</p>
 
-I am the developer of this iOS application, called HarshFlix. I've used third-party movies in this application to save movies trailer for later viewing. This app was developed using 100% programming in Swift; no storyboard is used. This app also supports dark and light modes on the iPhone; if you want, you can play with them. Apple's own database CoreData is used for local storage of saved movies.I also added amazing visual effects so that you will have fun using this application. By using this application, you will be able to enjoy your favourite film trailer at the appropriate moment and avoid missing any of your favourite filmmakers' or celebrities' films with the aid of this application's numerous tabs, including popular, trending, in cinema, top-rated, and upcoming films with ratings.I used various resources to make this application like youtube, stack-overflow and others.
+📸 **More Screenshots**  
+👉 https://drive.google.com/drive/folders/1oG2YYCpHXNe728v28-TIugJI99qxyipD?usp=sharing  
 
+🎥 **App Video — iPhone SE (3rd Gen)**  
+👉 https://youtu.be/bgcLirWhmwI?si=RpydzUlDXJSHX9w9  
 
-Not only that, but you can watch the movie trailer within the app itself thanks to Google YouTube's API. The icing on the cake is that you can use the movies search option to look up your favourite movies.
+🎥 **App Video — iPhone 15 Pro Max**  
+👉 https://youtu.be/qSq8UvMMRq4?si=AjPhfSZ4WNeHNelN  
 
+---
 
-You can watch more photos and full video of the app in my GitHub link. This 100% working project. Right now this app is not available in apple app store.lets hope best for the future availability.
+## 🚀 Overview
 
+HarshFlix is a native iOS movie trailer application designed to help users discover trending films and watch trailers directly within the app.  
+Built entirely with programmatic UIKit (no Storyboards), the app focuses on performance, smooth navigation, and an engaging visual experience.
 
-My Linkedin profile Link - https://www.linkedin.com/in/harsh-darji-6a3741147 
+---
 
-![Screenshot 2024-01-03 at 12 10 50 PM](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/57a80020-e181-4f20-8c52-c9013df6294d)
+## ✨ Key Features
 
-![Screenshot 2024-01-03 at 12 10 36 PM](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/06a83e2d-6635-4669-8dc0-bf3614b9bb21)
+🎬 **Movie Discovery**  
+- Popular, Trending, Top-Rated, Upcoming, and In-Theatres categories  
+- Ratings and metadata display  
+- Fast navigation between sections  
 
+▶️ **In-App Trailer Playback**  
+- YouTube API integration  
+- Seamless video playback inside the application  
+
+🔍 **Powerful Search**  
+- Instant movie lookup  
+- Find trailers for favorite films or celebrities  
+
+💾 **Offline Support**  
+- Core Data persistence for saved movies  
+- Access saved content without internet connection  
+
+🌙 **Adaptive UI**  
+- Supports Dark Mode and Light Mode  
+- Dynamic appearance based on system settings  
+
+🎞️ **Rich Visual Experience**  
+- Custom animations and transitions  
+- Smooth scrolling and responsive interface  
+
+---
+
+## 🧠 Technical Highlights
+
+- Swift (UIKit) — 100% programmatic UI  
+- No Storyboards  
+- REST API Integration for movie data  
+- YouTube API for video playback  
+- Core Data for local storage  
+- Custom animations & transitions  
+- Adaptive layouts across device sizes  
+
+---
+
+## 📌 Development Notes
+
+This project demonstrates:
+
+- Building complex apps without Storyboards  
+- Local persistence with Core Data  
+- Media playback integration  
+- Clean UI architecture and performance optimization  
+
+The application is fully functional but currently not published on the App Store.
+
+---
+
+## 📬 Contact
+
+📧 dev.iharsh1008@gmail.com  
+📱 +91 9662108047  
+
+🌐 Portfolio: https://dev1008iharsh.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/dev1008iharsh/  
+🐙 GitHub Repositories: https://github.com/dev1008iharsh?tab=repositories  
+
+---
+
+⭐️ If you like this project, consider giving it a star.
